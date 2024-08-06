@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Hello SEF</title>
+    </head>
+    <body>
+        <p>This is my first HTML document. It is quite plain, but there will be more to come soon! </p>
+        <!-- This is a comment -->
+    </body>
+</html>
